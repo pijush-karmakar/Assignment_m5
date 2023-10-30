@@ -1,0 +1,56 @@
+{
+    "admin@gmail.com": {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "123",
+        "role": "admin"
+    },
+    "jack@gmail.com": {
+        "username": "jack",
+        "email": "jack@gmail.com",
+        "password": "1234",
+        "role": "manager"
+    },
+    "abc@gmail.com": {
+        "username": "abc",
+        "email": "abc@gmail.com",
+        "password": "123456",
+        "role": "user"
+    },
+    "os@gmail.com": {
+        "username": "os",
+        "email": "os@gmail.com",
+        "password": "os123",
+        "role": ""
+    },
+    "sarif@gmail.com": {
+        "username": "sarif",
+        "email": "sarif@gmail.com",
+        "password": "123",
+        "role": ""
+    },
+    "efg@gmail.com": {
+        "username": "efg",
+        "email": "efg@gmail.com",
+        "password": "123",
+        "role": "manager"
+    },
+    "hr@gmail.com": {
+        "username": "hr",
+        "email": "hr@gmail.com",
+        "password": "1234",
+        "role": "user"
+    },
+    "om@gmail.com": {
+        "username": "om",
+        "email": "om@gmail.com",
+        "password": "123",
+        "role": "user"
+    },
+    "ec@gmail.com": {
+        "username": "ec",
+        "email": "ec@gmail.com",
+        "password": "123",
+        "role": ""
+    }
+}
